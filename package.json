@@ -1,16 +1,16 @@
 {
   "name": "@dmc-towns/delay-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A function to return a promise that resolves to a supplied object after a specified delay",
-  "repository": "https://github.com/DMCTowns/ObjectMethods",
+  "repository": "https://github.com/DMCTowns/delay-promise",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",
   "keywords": [
-    "object",
-    "hierarchy",
-    "nested object"
+    "promise",
+    "timeout",
+    "testing"
   ],
   "scripts": {
     "test": "jest",
