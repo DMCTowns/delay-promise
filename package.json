@@ -1,6 +1,6 @@
 {
   "name": "@dmc-towns/delay-promise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A function to return a promise that resolves to a supplied object after a specified delay",
   "repository": "https://github.com/DMCTowns/delay-promise",
   "type": "module",
